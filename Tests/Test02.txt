@@ -1,0 +1,9 @@
+King 0 0
+Killer 1 2
+Pawn 2 1
+rook 1 
+queen  1 $
+rook
+bishop 32 7
+knight  5 5
+shadow 3 5

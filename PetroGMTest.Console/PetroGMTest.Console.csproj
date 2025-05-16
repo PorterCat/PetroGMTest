@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\PetroGMTest.Core\PetroGMTest.Core.csproj" />
+      <ProjectReference Include="..\PetroGMTest.Render\PetroGMTest.Render.csproj" />
+    </ItemGroup>
+
+</Project>

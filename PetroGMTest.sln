@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetroGMTest.Console", "PetroGMTest.Console\PetroGMTest.Console.csproj", "{B3FFE44A-C3E4-43DC-9F5C-A13EEDD23A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetroGMTest.Core", "PetroGMTest.Core\PetroGMTest.Core.csproj", "{8C178BAE-463B-4C38-AB90-AFEFD45BB68D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetroGMTest.Render", "PetroGMTest.Render\PetroGMTest.Render.csproj", "{335CCC7E-B3C3-4ADE-A497-4DB4E4F01B72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3FFE44A-C3E4-43DC-9F5C-A13EEDD23A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FFE44A-C3E4-43DC-9F5C-A13EEDD23A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FFE44A-C3E4-43DC-9F5C-A13EEDD23A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FFE44A-C3E4-43DC-9F5C-A13EEDD23A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C178BAE-463B-4C38-AB90-AFEFD45BB68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C178BAE-463B-4C38-AB90-AFEFD45BB68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C178BAE-463B-4C38-AB90-AFEFD45BB68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C178BAE-463B-4C38-AB90-AFEFD45BB68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335CCC7E-B3C3-4ADE-A497-4DB4E4F01B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335CCC7E-B3C3-4ADE-A497-4DB4E4F01B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335CCC7E-B3C3-4ADE-A497-4DB4E4F01B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335CCC7E-B3C3-4ADE-A497-4DB4E4F01B72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
