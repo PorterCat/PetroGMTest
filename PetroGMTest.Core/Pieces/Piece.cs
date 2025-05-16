@@ -3,7 +3,7 @@ namespace PetroGMTest.Core.Pieces;
 public abstract class Piece
 {
     public (int x, int y) Position { get; }
-    public string FullName => $"{Symbol}-{GetLetter(Position.x)}{Position.y}";
+    public string FullName => $"{Symbol}-{GetLetter(Position.x)}{Position.y + 1}";
     
     protected Piece((int x, int y) pos)
     {
